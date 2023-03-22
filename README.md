@@ -1,1 +1,1 @@
-# INN-Hotels Bookings Cancellations Prediction 
+# INN-Hotels 
