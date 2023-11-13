@@ -154,7 +154,7 @@ In terms of determining which of the models have the best performance results an
      their mind.*
 
 - From our earlier analysis, we know that the customers who have a few special requests are more likely to cancel their booking at some point. In 
-  such a situation, INN hotel staff can initiative and ask the customers if they need any special requests regard their booking and they can offer 
+  such a situation, INN hotel staff can be initiative and ask the customers if they need any special requests regard their booking and they can offer 
   to them, moreover they can encourage those customers who are more likely will cancel the booking for these reasons, and of course without exaggeration 
   by offer them special treatments i.e. if the customer show up at their scheduled booking, they will get another night to stay at the room with 
   the view without any charges and in the date they will select, ...etc, hopefully they can drive those customer to stay.
