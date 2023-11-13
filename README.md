@@ -159,13 +159,13 @@ In terms of determining which of the models have the best performance results an
   by offer them special treatments i.e. if the customer show up at their scheduled booking, they will get another night to stay at the room with 
   the view without any charges and in the date they will select, ...etc, hopefully they can drive those customer to stay.
 
-- t's INN hotel responsibility for setting the rules and conditions regarding their cancellation policy, and to be certain about the customers who booked have a clear view of the hotels bookings 
-  policy when they agree to it in advance. whereas, they can set conditions like that the booking fees will not be refunded after 48 hours has passed from the scheduled booking. In fact, 
-  providing such a cancellation policy will preserve the rights for both parties.
+- It's INN hotel responsibility for setting the rules and conditions regarding their cancellation policy. Therefore, the customers who booked will have a clear view of the hotels bookings policy 
+  when they agree to it in advance. whereas, they can set conditions like that the booking fees will not be refunded after 48 hours has passed from the scheduled booking. In fact, providing such 
+  a cancellation policy will preserve the rights for both parties.
 
 ## Refernces
 
-[INN Hotels Bookings Cancellations Prediction Project File](https://github.com/hayasalman/INN-Hotels-Bookings-Cancellations-Prediction/blob/main/INN-Hotels-Bookings-Cancellations-Prediction.ipynb)
+[INN Hotels Bookings Cancellations Prediction Project File](https://github.com/hayasalman/INN-Hotels-Bookings-Cancellations-Prediction/blob/main/INN-Hotels%20Bookings%20Cancellations-Prediction.ipynb)
 
 ## Suggestions
 
