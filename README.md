@@ -20,7 +20,7 @@
 
  This increasing number of cancellations calls for a Machine Learning based solution that can help in predicting which booking is likely to be 
  canceled. INN Hotels Group has a chain of hotels in Portugal - they are facing problems with this high number of booking cancellations and have 
- reached out to your firm for data-driven solutions. You, as a Data Scientist, have to analyze the data provided to find which factors have a high 
+ reached out to data-driven solutions. we have to analyze the data provided to find which factors have a high 
  influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in 
  formulating profitable policies for cancellations and refunds.
 
