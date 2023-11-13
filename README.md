@@ -155,10 +155,9 @@ In terms of determining which of the models have the best performance results an
 
 - From our earlier analysis, we know that the customers who have a few special requests are more likely to cancel their booking at some point. In 
   such a situation, INN hotel staff can initiative and ask the customers if they need any special requests regard their booking and they can offer 
-  to them, moreover they can encourage those customers who are more likely they will cancel the booking for these reasons and without exaggeration 
+  to them, moreover they can encourage those customers who are more likely will cancel the booking for these reasons, and of course without exaggeration 
   by offer them special treatments i.e. if the customer show up at their scheduled booking, they will get another night to stay at the room with 
-  the view without any charges and in the date they will select, ...etc, hopefully they can drive the customer who more likely will cancel the 
-  booking to stay.
+  the view without any charges and in the date they will select, ...etc, hopefully they can drive those customer to stay.
 
 - INN hotel is responsible for setting the rules and conditions regarding their cancellation policy, they must make sure the customers who booked 
   agree to a cancellation policy in advance, where they can set conditions like that the price will not be refunded after 48 hours has passed from 
