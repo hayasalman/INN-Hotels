@@ -159,9 +159,9 @@ In terms of determining which of the models have the best performance results an
   by offer them special treatments i.e. if the customer show up at their scheduled booking, they will get another night to stay at the room with 
   the view without any charges and in the date they will select, ...etc, hopefully they can drive those customer to stay.
 
-- INN hotel is responsible for setting the rules and conditions regarding their cancellation policy, they must make sure the customers who booked 
-  agree to a cancellation policy in advance, where they can set conditions like that the price will not be refunded after 48 hours has passed from 
-  the scheduled booking. Providing a clear cancellation policy gives the hotel a more professional image.
+- t's INN hotel responsibility for setting the rules and conditions regarding their cancellation policy, and to be certain about the customers who booked have a clear view of the hotels bookings 
+  policy when they agree to it in advance. whereas, they can set conditions like that the booking fees will not be refunded after 48 hours has passed from the scheduled booking. In fact, 
+  providing such a cancellation policy will preserve the rights for both parties.
 
 ## Refernces
 
