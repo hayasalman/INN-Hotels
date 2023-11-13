@@ -128,7 +128,7 @@ In terms of determining which of the models have the best performance results an
 
 *Tuned decision tree has higher recall scores compared to other models, with F1-Score, Accuracy and Precision values are good. Also SVM with RBF kernel with optimal threshold has a good performance.*
 
-**This screenshot of the optimal threshold for the SVM with rbf kernsl model using the Precision-Recall Curve**
+**This screenshot of the optimal threshold for the SVM with rbf kernal model using the Precision-Recall Curve**
 
 ![optm_thresh](https://github.com/hayasalman/INN-Hotels-Bookings-Cancellations-Prediction/assets/71796909/152366d0-17fd-4d54-b0c2-23e5021e103e)
 
