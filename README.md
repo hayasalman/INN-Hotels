@@ -75,8 +75,7 @@
 - Performed a quick overview about the dataset like the dataset shape , data types, detected any missing or duplicated values, and dropped 
   unnecessary columns like : ids.
 - Performed exploratory data analysis (EDA) : univariate analysis, and bivariate analysis that will help us to describe and summarize the dataset 
-  characteristics, identify associations between the variables or recognize any patterns within the 
-  dataset, or even to reveal some important insights about the dataset.
+  characteristics, identify associations between the variables or recognize any patterns , or even to reveal some important insights, and detect the if there are any abnormalities in this dataset.
 - Prepared data before modeling by : define the independent variables and target variable, encoding categorical variables by creating dummy 
   variables, scaling the numerical variables to be in the same range, and finally split our dataset into train-test datasets **(train dataset size : 
   70% - test dataset size : 30%)**.
