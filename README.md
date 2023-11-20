@@ -70,7 +70,7 @@
   * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm, training the dataset in 
       ML models , and to evaluate the performance of the models.
 
-## Approches & Methodologies
+## Approaches & Methodologies
 
 - Performed a quick overview about the dataset like the dataset shape , data types, detected any missing or duplicated values, and dropped 
   unnecessary columns like : ids.
