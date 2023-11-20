@@ -66,7 +66,7 @@
    **Packeges used**
    
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
   * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm, training the dataset in 
       ML models , and to evaluate the performance of the models.
 
